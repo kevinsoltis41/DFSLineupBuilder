@@ -1,0 +1,3 @@
+9/1: Fixed Issue with Generation of Lineups not taking in account of the Selected Games Filter.
+
+8/29: Added 'Draftkings' Lineup Generation
