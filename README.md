@@ -1,8 +1,9 @@
 # DFSLineupBuilder
 
 Daily Fantasy Sports Lineup Builder.
+<span>"http://dfslinebuilder.azurewebsites.net/"</span>
 
-URL: <a href="http://dfslinebuilder.azurewebsites.net/">DFSLineupBuilder</a>
+URL: <a href="http://dfslinebuilder.azurewebsites.net/" target="_blank">DFSLineupBuilder</a>
 
 App:
  - Adaptation of the 'Knapsack Algorithm'
