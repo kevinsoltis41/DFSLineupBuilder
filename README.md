@@ -1,6 +1,6 @@
 # DFSLineupBuilder
 
-<a href="http://dfslineupbuilder.azurewebsites.net/" target="_blank">Daily Fantasy Sports Lineup Builder:</a>:  <span>"http://dfslineupbuilder.azurewebsites.net/"</span>
+<a href="http://dfsbuilder.azurewebsites.net/index.html#/" target="_blank">Daily Fantasy Sports Lineup Builder:</a>:  <span>"http://dfsbuilder.azurewebsites.net/index.html#/"</span>
 
 DFSLineupBuilder is an Optimization tool used to help generate the best Daily Lineups.
 Offer's fully customizable Projected Points with many Settings to help build the best lineups.
