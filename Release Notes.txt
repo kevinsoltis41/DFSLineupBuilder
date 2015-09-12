@@ -1,3 +1,5 @@
+9/11: New Application, new URL: http://dfsbuilder.azurewebsites.net/index.html#/
+
 9/10: New release and a new Site!
 
 9/1: Fixed Issue with Generation of Lineups not taking in account of the Selected Games Filter.
