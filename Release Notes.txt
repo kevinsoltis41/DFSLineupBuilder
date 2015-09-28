@@ -1,3 +1,7 @@
+9/27: Displaying projection values for NFL Projections for Draftkings using Numberfire Projections.
+
+9/27: Fully support MLB Projections and lineup building for Fanduel & Draftkings using Sabersim projections.
+
 9/11: New Application, new URL: http://dfsbuilder.azurewebsites.net/index.html#/
 
 9/10: New release and a new Site!
